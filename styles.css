@@ -1,0 +1,55 @@
+/* Style the layer control to make it slightly bigger */
+.leaflet-control-layers-expanded {
+    font-size: 14px; /* Increase font size */
+    max-width: 250px; /* Set maximum width */
+}
+
+/* Style the legend */
+.legend {
+    background: white;
+    padding: 15px; /* Add more padding for better spacing */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Slightly stronger shadow */
+    font-size: 16px; /* Increase font size */
+    line-height: 20px; /* Increase line-height for more space between lines */
+    border-radius: 5px; /* Rounded corners */
+    width: 160px; /* Set a fixed width for better consistency */
+}
+
+/* Style for the header */
+.legend h4 {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 18px; /* Slightly bigger title */
+    margin-bottom: 10px; /* Add space below the title */
+}
+
+/* Style the color swatches */
+.legend i {
+    display: inline-block;
+    width: 20px; /* Increase size of the swatch */
+    height: 20px;
+    margin-right: 12px; /* Increase space between swatch and label */
+    border-radius: 4px; /* Rounded corners for swatch */
+}
+
+/* Specific colors for the swatches */
+.legend i[style*="background: blue"] {
+    background: blue;
+}
+
+.legend i[style*="background: green"] {
+    background: green;
+}
+
+.legend i[style*="background: red"] {
+    background: red;
+}
+
+.legend i[style*="background: navy"] {
+    background: navy;
+}
+
+.legend i[style*="background: purple"] {
+    background: purple;
+}

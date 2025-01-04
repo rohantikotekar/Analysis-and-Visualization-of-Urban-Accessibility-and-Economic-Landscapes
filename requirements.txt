@@ -1,0 +1,6 @@
+matplotlib
+pyspark
+glob2
+python-csv
+python-math
+regex
