@@ -114,6 +114,3 @@ If you encounter any issues:
 - [Apache Spark](https://spark.apache.org/)
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 - [Python](https://www.python.org/doc/)
-
-## Output
-![image](https://github.com/user-attachments/assets/f5fd4c85-4e65-47d2-a099-86edab217b93)
